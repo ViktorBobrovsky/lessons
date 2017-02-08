@@ -1,0 +1,11 @@
+@font-face{
+	font-family: Altoys;
+    src: url(./font/Altoysitalic_personal_only.otf);
+}
+p {
+	font-family:  Altoys;
+}
+body {
+	background-image: url(./img/kitty.png);
+	background-size: 100%;
+}
